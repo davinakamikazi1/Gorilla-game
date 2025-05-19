@@ -1,0 +1,6 @@
+The Gorilla Game is a two-player projectile game developed for the Silicon Labs C8051F020
+microcontroller interfaced with an S12864N graphical LCD module. Players control gorillas
+placed atop randomly generated buildings and take turns launching bananas at each other's
+gorillas. Potentiometers adjust launch angles and velocities, introducing strategic complexity
+through physics-based projectile motion influenced by gravity and wind. Audio and visual
+feedback enhance gameplay experience significantly.
